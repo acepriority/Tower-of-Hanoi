@@ -45,7 +45,6 @@ def tower_of_hanoi(n, source, target, auxiliary):
 
         tower_of_hanoi(n-1, auxiliary, target, source)
 
-
 n = 4
 disks = {'A': list(range(n, 0, -1)), 'B': [], 'C': []}
 tower_of_hanoi(n, 'A', 'C', 'B')
