@@ -8,7 +8,7 @@ This repository contains a Python implementation of the Tower of Hanoi algorithm
 ## Requirements
 
 - Python 3.x
-- Turtle module (usually included in Python standard library)
+- Turtle module (usually included in Python standard library).
 
 ## Usage
 
